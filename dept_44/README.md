@@ -1,5 +1,7 @@
 # Mise à disposition des données des AOC/IGP du département 44
 
+# Geojson files set for IGP/AOC within French "Loire-Atlantique" department (Loire vineyards, France)
+
 ## Introduction
 
 Dans le cadre du [hackgriculture](http://cantine.atlantic2.org/evenements/hackgriculture-les-technologies-au-service-de-la-production-agricole-en-milieu-urbain/), nous avons généré les aires communales des AOC et IGP qui sont présentes dans le département du 44 en incluant toutes les communes de l'AOC. Cela implique que l'aire AOC peut dépasser le département. Par ailleurs, nous avons considéré qu'il n'y avait pas nécessité de n'inclure que les AOC/IGP vins et qu'il était plus intéressant de mettre à disposition toutes les données.
