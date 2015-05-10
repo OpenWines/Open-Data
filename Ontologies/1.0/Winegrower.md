@@ -4,7 +4,6 @@
 
 
 ```js
-<script type="application/ld+json">
 {
   "@context": [
     "ow": "https://github.com/OpenWines/Open-Data/tree/master/Ontologies/1.0",
@@ -31,5 +30,4 @@
   "email": "mailto:durand.verteprairie@wanadoo.fr",
   "url": "http://www.durand-vigneron.com"
 }
-</script>
 ```
